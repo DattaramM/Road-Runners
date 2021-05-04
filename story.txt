@@ -1,5 +1,0 @@
-Butler was a fan of Subway Surfers Game. He wanted to make a game like Subway Surfers. Making Subway Surfers game in 3D was quite
-complicated, so he decided to make the game in 2D. He was not having some assets necessary for the game but he had a road image which 
-can be the background of the game. He choosed the character of the game 'Jake'(the main character of Subway Surfers) as the player.
-He was thinking that the name 'Subway Surfers' is not suitable to the game. So he named the game as 'Roadway-Runners' and finally
-created the whole game in javascript.
