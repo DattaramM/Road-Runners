@@ -1,0 +1,5 @@
+1. The levels will be displayed on the screen of the game.
+2. The level increases after the game progresses and the highscore increases.
+3. As the levels increase, the y velocity of the coins, energy drinks and bombs increases.
+4. The y velocity of the road(path) also increases.
+5. A sound is played after a level increases.
